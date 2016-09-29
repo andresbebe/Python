@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#-
+
 #Realice un programa que permita ingresar los datos de alumnos de una facultad
 #. Por cada alumno se ingresa: nombre, apellido, genero, edad, carrera.
 #El ingreso de dato finaliza cuando se ingresa la edad -1. Se solicita
